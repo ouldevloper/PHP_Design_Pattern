@@ -1,0 +1,9 @@
+{
+    "name": "user/5_factorymethod",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "FactoryMethodPattern\\": "Component/"
+        }
+    }
+}
