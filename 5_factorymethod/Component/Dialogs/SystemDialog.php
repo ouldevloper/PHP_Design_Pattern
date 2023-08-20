@@ -2,9 +2,6 @@
 
 
 namespace FactoryMethodPattern\Dialogs;
-
-
-
 use FactoryMethodPattern\Buttons\Button;
 use FactoryMethodPattern\Buttons\SystemButton;
 
