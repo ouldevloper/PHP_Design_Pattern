@@ -1,0 +1,9 @@
+{
+    "name": "user/4_adapter",
+    "autoload": {
+        "psr-4": {
+            "\\AdapterPattern\\": "src/"
+        }
+    },
+    "require": {}
+}
