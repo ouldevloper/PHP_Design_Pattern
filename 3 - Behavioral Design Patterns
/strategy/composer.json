@@ -1,9 +1,0 @@
-{
-    "name": "user/6_strategy",
-    "require": {},
-    "autoload": {
-        "psr-4": {
-            "StrategyPattern\\": "src/"
-        }
-    }
-}
