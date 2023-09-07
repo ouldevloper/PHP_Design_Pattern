@@ -1,9 +1,0 @@
-{
-    "name": "user/php_designpattern",
-    "autoload": {
-        "psr-4": {
-            "User\\PhpDesignpattern\\": "src/"
-        }
-    },
-    "require": {}
-}
