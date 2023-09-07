@@ -1,6 +1,6 @@
 <?php
 
-interface Observer
+class Observer
 {
 
 }
