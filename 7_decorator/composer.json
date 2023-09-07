@@ -1,9 +1,0 @@
-{
-    "name": "user/7_decorator",
-    "autoload": {
-        "psr-4": {
-            "DecoratorPattern\\": "src/"
-        }
-    },
-    "require": {}
-}
