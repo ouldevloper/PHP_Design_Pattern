@@ -1,0 +1,9 @@
+{
+    "name": "user/observer",
+    "autoload": {
+        "psr-4": {
+            "Observer\\": "src/"
+        }
+    },
+    "require": {}
+}
